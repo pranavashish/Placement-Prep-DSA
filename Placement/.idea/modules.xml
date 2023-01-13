@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apna College.iml" filepath="$PROJECT_DIR$/Apna College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array.iml" filepath="$PROJECT_DIR$/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays 2D.iml" filepath="$PROJECT_DIR$/Arrays 2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitManipulation.iml" filepath="$PROJECT_DIR$/BitManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions.iml" filepath="$PROJECT_DIR$/Conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apna College/DividenConq/DividenConq.iml" filepath="$PROJECT_DIR$/Apna College/DividenConq/DividenConq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowchartAC.iml" filepath="$PROJECT_DIR$/FlowchartAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flowchart_Pseudocodes.iml" filepath="$PROJECT_DIR$/Flowchart_Pseudocodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function_Method.iml" filepath="$PROJECT_DIR$/Function_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops.iml" filepath="$PROJECT_DIR$/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS.iml" filepath="$PROJECT_DIR$/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern-1.iml" filepath="$PROJECT_DIR$/Pattern-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Placement.iml" filepath="$PROJECT_DIR$/Placement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RucursionBasics.iml" filepath="$PROJECT_DIR$/RucursionBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE-Sheet/SDE-Sheet.iml" filepath="$PROJECT_DIR$/SDE-Sheet/SDE-Sheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting.iml" filepath="$PROJECT_DIR$/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting-Algos/Sorting-Algos.iml" filepath="$PROJECT_DIR$/Sorting-Algos/Sorting-Algos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings.iml" filepath="$PROJECT_DIR$/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variables_DataTypes.iml" filepath="$PROJECT_DIR$/Variables_DataTypes.iml" />
+    </modules>
+  </component>
+</project>
